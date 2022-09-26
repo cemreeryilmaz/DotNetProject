@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gWVj0zxeRwrZr21XpRCcWiJeFITq6Gq+7KmypWIDB1S2EgNSvnMOBDwaPBZng3TN4tLMzhD7lHI3AL6Oxo3lRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\Challange\\DotNetProject\\DotNetProject\\DotNetProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cemre\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
+    "C:\\Users\\Cemre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

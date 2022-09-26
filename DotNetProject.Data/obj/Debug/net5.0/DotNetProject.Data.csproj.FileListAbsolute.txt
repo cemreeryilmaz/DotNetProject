@@ -1,0 +1,12 @@
+C:\Users\Cemre\OneDrive\Masaüstü\Challange\DotNetProject\DotNetProject.Data\bin\Debug\net5.0\DotNetProject.Data.deps.json
+C:\Users\Cemre\OneDrive\Masaüstü\Challange\DotNetProject\DotNetProject.Data\bin\Debug\net5.0\DotNetProject.Data.dll
+C:\Users\Cemre\OneDrive\Masaüstü\Challange\DotNetProject\DotNetProject.Data\bin\Debug\net5.0\ref\DotNetProject.Data.dll
+C:\Users\Cemre\OneDrive\Masaüstü\Challange\DotNetProject\DotNetProject.Data\bin\Debug\net5.0\DotNetProject.Data.pdb
+C:\Users\Cemre\OneDrive\Masaüstü\Challange\DotNetProject\DotNetProject.Data\obj\Debug\net5.0\DotNetProject.Data.csproj.AssemblyReference.cache
+C:\Users\Cemre\OneDrive\Masaüstü\Challange\DotNetProject\DotNetProject.Data\obj\Debug\net5.0\DotNetProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cemre\OneDrive\Masaüstü\Challange\DotNetProject\DotNetProject.Data\obj\Debug\net5.0\DotNetProject.Data.AssemblyInfoInputs.cache
+C:\Users\Cemre\OneDrive\Masaüstü\Challange\DotNetProject\DotNetProject.Data\obj\Debug\net5.0\DotNetProject.Data.AssemblyInfo.cs
+C:\Users\Cemre\OneDrive\Masaüstü\Challange\DotNetProject\DotNetProject.Data\obj\Debug\net5.0\DotNetProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\Cemre\OneDrive\Masaüstü\Challange\DotNetProject\DotNetProject.Data\obj\Debug\net5.0\DotNetProject.Data.dll
+C:\Users\Cemre\OneDrive\Masaüstü\Challange\DotNetProject\DotNetProject.Data\obj\Debug\net5.0\ref\DotNetProject.Data.dll
+C:\Users\Cemre\OneDrive\Masaüstü\Challange\DotNetProject\DotNetProject.Data\obj\Debug\net5.0\DotNetProject.Data.pdb

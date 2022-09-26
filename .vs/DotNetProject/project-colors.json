@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eecae6e1-c20f-4343-8528-3b6c7de2e917": {
+      "ProjectGuid": "eecae6e1-c20f-4343-8528-3b6c7de2e917",
+      "DisplayName": "DotNetProject",
+      "ColorIndex": 0
+    },
+    "949664ea-82c2-4a50-94d3-c2aad9d1c488": {
+      "ProjectGuid": "949664ea-82c2-4a50-94d3-c2aad9d1c488",
+      "DisplayName": "DotNetProject.DataAPI",
+      "ColorIndex": 1
+    },
+    "fd3eefe8-a9b2-403d-96fe-91423b3dc8bf": {
+      "ProjectGuid": "fd3eefe8-a9b2-403d-96fe-91423b3dc8bf",
+      "DisplayName": "DotNetProject.Data",
+      "ColorIndex": 2
+    },
+    "4fca7b5c-f7fe-4151-a185-db93c465b6dd": {
+      "ProjectGuid": "4fca7b5c-f7fe-4151-a185-db93c465b6dd",
+      "DisplayName": "DotNetProject.BusinessAPI",
+      "ColorIndex": 3
+    },
+    "9932c1b3-9191-49ff-9d5a-97c3b09cd5bc": {
+      "ProjectGuid": "9932c1b3-9191-49ff-9d5a-97c3b09cd5bc",
+      "DisplayName": "DotNetProject.UI",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

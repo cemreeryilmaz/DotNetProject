@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eQnQGi4Y0rb0pU6vtmU6j9UQLGrVloUBI4r+SQhq6mWIQFXHsQFf27OEJCHLBA8IboNXkDpYp6gn5ycmFGqmDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\Challange\\DotNetProject\\DotNetProject.UI\\DotNetProject.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cemre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

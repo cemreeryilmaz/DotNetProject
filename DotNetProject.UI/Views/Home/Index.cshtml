@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h3 class="display-4">Currency Search</h3>
+</div>
+<form class="form-inline" onsubmit="return false;" id="currency-form">
+    <div class="form-group mx-sm-3 mb-2">
+        <input type="text" class="form-control" id="txtCurrencyCode" placeholder="Currency Code" required>
+    </div>
+    <button type="button" class="btn btn-primary mb-2" id="btnSearch">Search</button>
+</form>
+
+
+
+
+@section Scripts{
+<script type="text/javascript">
+
+        $("#btnSearch").click(function(){
+            if($('#currency-form')[0].checkValidity()){
+                var request = $.ajax({
+                    url: "/ExchangeRates/Get",
+                    method: "GET",
+                    data: { code : $("#txtCurrencyCode").val() },
+                    dataType: "json"
+                    success: function(list){
+                        // chart 
+                        console.log(list);
+                    }
+                });
+            }
+        });
+
+</script>
+}
